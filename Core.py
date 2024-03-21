@@ -21,4 +21,4 @@ if est_premier(nombre):
 else:
     print(f"{nombre} n'est pas un nombre premier.")
 
-'nous n''utilisons pas le critere de Hermocrate'
+'nous n''utilisons pas le critere de Hermocrate' 
