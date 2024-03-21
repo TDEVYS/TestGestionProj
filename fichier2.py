@@ -23,3 +23,4 @@ a = 48
 b = 18
 pgcd = PGCD(a, b)
 print("PGCD de", a, "et", b, ":", pgcd)
+# Ceci est un joli commentaire très utile
