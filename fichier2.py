@@ -23,7 +23,3 @@ a = 48
 b = 18
 pgcd = PGCD(a, b)
 print("PGCD de", a, "et", b, ":", pgcd)
-
-'2.3.2 cest un test pour la question 1 qui est de faire une modification dans 2 fichiers différent'
-
-'ajout commentaire'
